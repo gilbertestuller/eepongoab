@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xooshuzab.brendaneyre.com/sitemap.xml
